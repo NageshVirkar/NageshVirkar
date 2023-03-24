@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nagesh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Nagesh, a full-time full-stack developer 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/NageshVirkar/github-profilinator)  
