@@ -10,22 +10,22 @@
 <hr>
 <br>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=NageshVirkar">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/NageshVirkar?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
 </p>
 <br>
 
 ## Github Contribution Streak 🔥 
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=NageshVirkar&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=NageshVirkar&show_icons=true&theme=github_dark">
 </p>
 <hr>
 <br>
@@ -33,7 +33,7 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NageshVirkar&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
