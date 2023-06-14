@@ -62,8 +62,7 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
+
 </p>
 <br>
 
@@ -83,14 +82,6 @@
 <!-- <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp; -->
-</p>
-<br>
-
-### Design 🎨 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -117,20 +108,13 @@
 ### Social Media 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:chinmaysonawane57@gmail.com" target="_blank">
+<a href="mailto:nageshvirkar08@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/chinmay29hub" target="_blank">
+<a href="https://www.instagram.com/Virkar_nagesh" target="_blank">
 <img src="https://img.shields.io/badge/chinmay29hub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:chinmaysonawane57@protonmail.com" target="_blank">
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCfc0iDwzZi7CLKIBWBCJNWw">
-<img src="https://img.shields.io/badge/chinmay29hub-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
-</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nagesh-virkar-b854bb1b9/" target="_blank">
+
 </p>
 <br>
 
@@ -204,7 +188,7 @@
 ## Github Contributions 📈
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=NageshVirkar&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -212,177 +196,9 @@
 
 ## Just a snake eating my contributions 🐍
 <p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/NageshVirkar/NagesVirkar/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
 <br>
 
-## Waka Time Stats 🕰
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2010%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 301.4 kB Used in GitHub's Storage 
- > 
-> 🏆 399 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 59 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                186 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-🌆 Daytime                346 commits         █████████░░░░░░░░░░░░░░░░   36.27 % 
-🌃 Evening                385 commits         ██████████░░░░░░░░░░░░░░░   40.36 % 
-🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Tuesday                  142 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Wednesday                155 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Friday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Saturday                 168 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Sunday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Text                     33 mins             ████████████████████████░   95.88 % 
-SSH Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-
-🔥 Editors: 
-Gedit                    33 mins             ████████████████████████░   95.88 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-
-🐱‍💻 Projects: 
-Unknown Project          35 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            ████████░░░░░░░░░░░░░░░░░   33.87 % 
-Python                   21 repos            ████████░░░░░░░░░░░░░░░░░   33.87 % 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-```
-
-
-
-
- Last Updated on 14/06/2023 10:20:28 UTC
-<!--END_SECTION:waka-->
-
-<hr>
-<br>
-
-## Trophies 🏆:
-<br>
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
-</p>
-<hr>
-<br>
-
-## Recent Articles on Medium 📚 :
-<br>
-<p>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/0" alt="How to use pyscript within vscode?">
-</p>
-<br>
-<p>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/1" alt="what is ssh and how to use it on ubuntu?">
-</p>
-<br>
-<p>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/2" alt="ls command in linux">
-</p>
-<br>
-<p>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/3" alt="ls command in linux">
-</p>
-<br>
-
-<hr>
-<br>
-
-## Articles On linuxfordevices.com 🐧 :
-<br>
-
-| Clickable Titles |
-| --- |
-| [Cool Terminal Progress Bar – Python and Bash](https://www.linuxfordevices.com/tutorials/linux/terminal-progress-bar-python-bash) |
-| [Top 10 Amazing Raspberry Pi Projects 2022](https://www.linuxfordevices.com/tutorials/linux/top-raspberry-pi-projects) |
-| [9 Best Linux Distros For Programming](https://www.linuxfordevices.com/tutorials/linux/best-linux-distros-for-programming) |
-| [Kubuntu vs Ubuntu – Which is the best 2022?](https://www.linuxfordevices.com/tutorials/ubuntu/kubuntu-vs-ubuntu) |
-| [Make Your Arch Linux Terminal Awesome 2022](https://www.linuxfordevices.com/tutorials/linux/make-arch-terminal-awesome) |
-| [9 Best Widgets For KDE Plasma](https://www.linuxfordevices.com/tutorials/linux/best-widgets-for-kde-plasma) |
-| [Best Way To Connect Raspberry Pi Remotely 2022](https://www.linuxfordevices.com/tutorials/linux/connect-raspberry-pi-remotely) |
-| [Settings To Make Your KDE Desktop Stunning 2022](https://www.linuxfordevices.com/tutorials/linux/make-kde-desktop-stunning) |
-| [Draw On Your Linux Screen With These Great Tools 2022](https://www.linuxfordevices.com/tutorials/linux/tools-to-draw-on-linux-screen) |
-| [Best Way To Execute Linux Commands using Python](https://www.linuxfordevices.com/tutorials/linux/execute-linux-commands-python) |
-| [How to download and Play Among us On Linux?](https://www.linuxfordevices.com/tutorials/linux/among-us-on-linux) |
-| [Make Your Bash Shell Beautiful 2022](https://www.linuxfordevices.com/tutorials/linux/beautify-bash-shell) |
-| [A great way to use Ubuntu Server 22.04 on Virtual Box](https://www.linuxfordevices.com/tutorials/linux/ubuntu-server-on-virtual-box) |
-
-<hr>
-<br>
-
-## Articles on codeforgeek.com 💻 :
-<br>
-
-| Clickable Titles |
-| --- |
-| [Upgrade Your Raspberry Pi to a Powerful Web Server](https://codeforgeek.com/raspberry-pi-webserver/) |
-
-<hr>
-<br>
-
-## chinmay29hub 2021 📅:
-<br>
-<p align='center'>
-<img src="chinmay29hub.gif">
-</p>
-
-<hr>
-<br>
-
-## Dynamic Quotes 📜:
-<br>
-<p align='center'>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
-<hr>
-<br>
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
-
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-
-<h2 align='center'>Thank You!!!!!</h2>
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p>
